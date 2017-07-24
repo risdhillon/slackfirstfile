@@ -1,5 +1,5 @@
-﻿$gitrepo="https://github.com/risdhillon/slack-invite-automation.git"
-$gittoken="INSERT TOKEN HERE"
+﻿#$gitrepo="https://github.com/risdhillon/slack-invite-automation.git"
+$gittoken="INSERT TOKEN HERE#5d5a8009913e31af40dbfb680a55f83ccc5ff6"
 $webappname="rishamDemoSlack"
 $location="West Europe"
 
